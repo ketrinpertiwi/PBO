@@ -19,5 +19,3 @@ public class Permintaan {
     public Date getTanggal() { return tanggal; } public void setTanggal(Date tanggal) { this.tanggal = tanggal; }
     public String getStatus() { return status; } public void setStatus(String status) { this.status = status; }
 }
-
-
